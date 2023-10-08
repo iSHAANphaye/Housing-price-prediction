@@ -6,6 +6,10 @@ This project implements a machine learning model for predicting housing prices u
 
 The goal of this project is to predict housing prices based on various input features such as price, lot size, number of bedrooms, bathrooms, and stories. Regularized linear regression, specifically ridge regression, is employed to build a robust predictive model.
 
+## To-do
+- [ ] Implement better ML models to more accurately predict prices.
+- [ ] Implement a website design to showcase model capabilities (Using Flask).
+
 ## Key Components
 
 ### Helper Functions
@@ -60,9 +64,5 @@ The goal of this project is to predict housing prices based on various input fea
 
 - This project is inspired by the need to predict housing prices accurately and efficiently.
 - Special thanks to the open-source data science community for providing valuable insights and resources.
-
-## To-do
-- [ ] Implement better ML models to more accurately predict prices.
-- [ ] Implement a website design to showcase model capabilities (Using Flask).
 
 ---
